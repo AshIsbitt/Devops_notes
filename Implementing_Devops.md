@@ -159,3 +159,21 @@ Build momentums through demonstrated progress - however do so carefully. This ca
 - Maintain a regular rhythm
 - show good and bad news - it'll build up trust
 
+### Onboarding New Engineers
+
+There will always be a core team, but there could also be new engineers joining and leaving the team to learn how to use DevOps and increasing the use of the mindset.
+
+A company should never be tribal. Information is always shared among a company. Learn from Source Control, Deployment, Pipeline and internal wikis
+
+This is a good time to test a new deployment pipeline
+
+Working together in pairs can accellerate their preparation, as both partners can teach and learn from each other.
+
+- New team members pair with existing ones
+- Encourage use of the application itself
+- Add new engineers to on-call rotation
+- Iterate on-boarding documents on feedback
+
+### Monthly Op Reviews
+
+ 
